@@ -1,0 +1,35 @@
+.header{
+  text-align: center;  
+  font-size: xx-large;
+  color:white;
+}
+.me{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.text{
+    text-align: center;  
+    font-size: larger; 
+    color:white;
+}
+body{
+    background-color: black;
+}
+a:link{
+    color: white;
+    font-size: 20px;
+}
+a:visited{
+    color: white;
+    font-size: 20px;
+}
+.about:hover{
+    transform: scale(1.2);
+}
+.achieve:hover{
+    transform: scale(1.2);
+}
+.hob:hover{
+    transform: scale(1.2);
+}
